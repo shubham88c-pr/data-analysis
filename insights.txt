@@ -1,0 +1,8 @@
+Female Survival Rate: 74.20%
+Male Survival Rate: 18.89%
+Women had a significantly higher survival rate than men.
+Passenger Class 1 had the highest survival rate.
+Age ranged from 0 to 80 years.
+Highest ticket fare was 512.33.
+Average ticket fare was 32.20.
+Correlation between Fare and Survival was 0.26.
