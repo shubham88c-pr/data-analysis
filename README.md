@@ -87,8 +87,8 @@ Make sure you have Python installed on your system.
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
-   cd your-repo-name
+   git clone https://github.com/shubham88c-pr/data-analysis.git
+   cd data_analysis
    ```
 
 2. **Install dependencies:**
